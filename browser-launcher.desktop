@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Browser Launcher
+Comment=Abre URLs en múltiples navegadores
+Exec=bash /home/jaume/.local/share/browser-launcher/browser-launcher.sh
+Icon=/home/jaume/.local/share/browser-launcher/icon.svg
+Terminal=false
+Categories=Development;WebDevelopment;
+Keywords=browser;web;development;preview;
+StartupNotify=false
